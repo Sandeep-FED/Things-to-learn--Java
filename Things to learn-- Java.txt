@@ -1,0 +1,14 @@
+Things to learn in Java:
+
+1. Variables
+2. Loops
+3. Conditionals
+4. Logical / Relational operators
+5. Exception Handling
+6. Functions
+7. Classes & Inheritance
+8. Collection Framework
+9. Threads & Libraries
+
+
+10. Android Listeners / Adaptors.
